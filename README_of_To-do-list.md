@@ -39,7 +39,7 @@ codsoft
 1. Clone the repository:
 
 ```
-git clone https://github.com/developer-devashish/codsoft
+git clone https://github.com/Vedant1209v/CODSOFT-Vedant
 cd codsoft
 ```
 
@@ -100,4 +100,4 @@ Built using Python’s built-in GUI library Tkinter.
 ---
 
 ## Author
-Devashish Ghosh
+Vedant Landge
