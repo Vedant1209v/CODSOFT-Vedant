@@ -104,4 +104,4 @@ This project was built to help beginners understand:
 ---
 
 ## Author
-Devashish Ghosh
+Vedant Landge
