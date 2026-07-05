@@ -60,7 +60,7 @@ codsoft/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/developer-devashish/codsoft
+   git clone https://github.com/Vedant1209v/CODSOFT-Vedant
    ```
 
 2. Navigate to the project folder:
