@@ -62,7 +62,7 @@ Contact-Book/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/developer-devashish/codsoft
+git clone https://github.com/Vedant1209v/CODSOFT-Vedant
 ```
 
 ## 2. Open Project Folder
@@ -125,5 +125,5 @@ Users can delete contacts with a confirmation popup.
 
 # Author
 
-Devashish Ghosh
+Vedant Landge
 
