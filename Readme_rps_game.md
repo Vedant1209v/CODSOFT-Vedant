@@ -55,7 +55,7 @@ Paper    > Rock
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/developer-devashish/codsoft
+git clone https://github.com/Vedant1209v/CODSOFT-Vedant
 # 2. Go into the folder
 cd codsoft
 
@@ -97,6 +97,6 @@ python rps_game.py
 
 ## Author
 
-**Devashish Ghosh**  
+**Vedant Landge**  
 
 ---
